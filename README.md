@@ -1,6 +1,6 @@
 # GlycoGPT
 
-![Static Badge](https://img.shields.io/badge/gpt-store-blue?logo=openai&labelColor=black&color=white&link=https%3A%2F%2Fchatgpt.com%2Fg%2Fg-692979f3c97481919a1aae952c8f7d77-glycogpt)
+[![Static Badge](https://img.shields.io/badge/gpt-store-blue?logo=openai&labelColor=black&color=white)](https://chatgpt.com/g/g-692979f3c97481919a1aae952c8f7d77-glycogpt)
 [![name status badge](https://glycoverse.r-universe.dev/badges/:name)](https://glycoverse.r-universe.dev/)
 
 <p align="center">
@@ -42,5 +42,5 @@ As a domain-aware assistant, GlycoGPT aims to:
 ---
 ## How to Use
 
-Click ![Static Badge](https://img.shields.io/badge/gpt-store-blue?logo=openai&labelColor=black&color=white&link=https%3A%2F%2Fchatgpt.com%2Fg%2Fg-692979f3c97481919a1aae952c8f7d77-glycogpt) and start chatting!
+Click [![Static Badge](https://img.shields.io/badge/gpt-store-blue?logo=openai&labelColor=black&color=white)](https://chatgpt.com/g/g-692979f3c97481919a1aae952c8f7d77-glycogpt) and start chatting!
 
