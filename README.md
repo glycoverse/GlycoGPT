@@ -17,6 +17,10 @@
 GlycoGPT is an AI-powered bioinformatics assistant specialized in glycomics and glycoproteomics data analysis.
 Built on top of the glycoverse ecosystem, GlycoGPT is designed to help researchers streamline workflows, understand package functionalities, and generate analysis-ready code with best practices in mind.
 
+<p align="center">
+  <img width="588" height="405" alt="截屏2025-11-28 22 11 34" src="https://github.com/user-attachments/assets/5e397d44-83ff-424f-b283-5c1db8aaba45" />
+</p>
+
 GlycoGPT understands all full glycoverse packages, including:
 
 - [glyexp](https://github.com/glycoverse/glyexp) — data management
@@ -44,3 +48,13 @@ As a domain-aware assistant, GlycoGPT aims to:
 
 Click [![Static Badge](https://img.shields.io/badge/gpt-store-blue?logo=openai&labelColor=black&color=white)](https://chatgpt.com/g/g-692979f3c97481919a1aae952c8f7d77-glycogpt) and start chatting!
 
+>[!Note]
+>GlycoGPT requires 5.1-thinking for best results. Other models might give incorrect codes.
+
+## Common Usages
+
+> I have a StrucGP result file. How do I get glycosites with at least one core-fucosylated glycans?
+
+> How do I create a `glyexp::experiment()` object?
+
+> Give me the vignette about IUPAC-condensed glycan structure strings.
