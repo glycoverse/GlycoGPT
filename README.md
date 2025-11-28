@@ -1,62 +1,46 @@
-# 🧬 Learning glycoverse with ChatGPT
+# GlycoGPT
 
-This README introduces how to use ChatGPT prompt to systematically learn and practice the glycoverse ecosystem — 
-a modern, modular, and multi-functional R framework for glycomics and glycoproteomics analysis.
+![Static Badge](https://img.shields.io/badge/gpt-store-blue?logo=openai&labelColor=black&color=white&link=https%3A%2F%2Fchatgpt.com%2Fg%2Fg-692979f3c97481919a1aae952c8f7d77-glycogpt)
+[![name status badge](https://glycoverse.r-universe.dev/badges/:name)](https://glycoverse.r-universe.dev/)
 
-## How to Use This Prompt
+<p align="center">
+  <img width="375" height="159" alt="glycoverse-chatgpt" src="https://github.com/user-attachments/assets/3030c58e-37e0-4790-81ae-a999b21494f1" />
+</p>
 
-This prompt turns ChatGPT (GPT-5 or later) into your bioinformatics tutor for glycoverse.
-It guides the model to automatically explore the documentation, understand each package’s purpose, and generate working R code for real-world tasks.
+<p align="center">
+  <span style="background: linear-gradient(45deg, #12c2e9, #c471ed, #f64f59); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+    <strong>Your GPT assistant for glycoverse<br>Powered by <a href="https://chatgpt.com/">ChatGPT</a></strong>
+  </span>
+</p>
 
-1. Copy the entire prompt and paste it into ChatGPT (GPT-5).
-2. Replace the "Task" section with your own task.
-3. Use the "Thinking" mode of GPT-5 and wait for its response.
+---
+GlycoGPT is an AI-powered bioinformatics assistant specialized in glycomics and glycoproteomics data analysis.
+Built on top of the glycoverse ecosystem, GlycoGPT is designed to help researchers streamline workflows, understand package functionalities, and generate analysis-ready code with best practices in mind.
 
-## The prompt
+GlycoGPT understands all full glycoverse packages, including:
 
-```md
-# Introduction of glycoverse
+- [glyexp](https://github.com/glycoverse/glyexp) — data management
+- [glyread](https://github.com/glycoverse/glyread) — data import and cleaning
+- [glyclean](https://github.com/glycoverse/glyclean) — data preprocessing
+- [glystats](https://github.com/glycoverse/glystats) — statistical analysis
+- [glyvis](https://github.com/glycoverse/glyvis) — visualization
+- [glyrepr](https://github.com/glycoverse/glyrepr) — glycan representation
+- [glyparse](https://github.com/glycoverse/glyparse) — structure parsing
+- [glymotif](https://github.com/glycoverse/glymotif) — motif analysis
+- [glydet](https://github.com/glycoverse/glydet) — derived trait analysis
+- [glyenzy](https://github.com/glycoverse/glyenzy) — biosynthesis pathway analysis
+- [glydb](https://github.com/glycoverse/glydb) — glycan databases
+- [glyanno](https://github.com/glycoverse/glyanno) — annotation and information enhancement
 
-The ‘glycoverse’ is a set of packages that together form a comprehensive pipeline for glycomics and glycoproteomics data analysis.
+As a domain-aware assistant, GlycoGPT aims to:
 
-This includes:
+- Provide accurate, reproducible R code using glycoverse functions
+- Encourage best practices in glycoverse-based data analysis
+- Offer guidance on workflows, interpretation, and visualization
+- Help both beginners and advanced users explore the glycoverse ecosystem
 
-- glyexp: for data management
-- glyread: for data import
-- glyclean: for data cleaning and preprocessing
-- glystats: for statistical analysis
-- glyvis: for data visualization
-- glyrepr: for glycan structure representation
-- glyparse: for glycan structure parsing
-- glymotif: for glycan structure motif analysis
-- glydet: for glycan derived trait analysis
-- glyenzy: for glycan biosynthesis pathway analysis
+---
+## How to Use
 
-# Resources
+Click ![Static Badge](https://img.shields.io/badge/gpt-store-blue?logo=openai&labelColor=black&color=white&link=https%3A%2F%2Fchatgpt.com%2Fg%2Fg-692979f3c97481919a1aae952c8f7d77-glycogpt) and start chatting!
 
-- Github Page: https://github.com/glycoverse/glycoverse
-- Case Study: https://glycoverse.github.io/glycoverse/articles/case-study-1.html, https://glycoverse.github.io/glycoverse/articles/case-study-2.html
-- Get Started vignettes: https://glycoverse.github.io/glyxxx/articles/glyxxxhtml (replace glyxxx to specific packages)
-
-# Instruction
-
-Now you're a bioinformatics expert in glycomics and glycoproteomics. Please do the following things in order:
-
-1. Visit the above resources to get a basic understanding of glycoverse.
-2. Using what you just learned, complete the following task.
-3. If you encounter anything not sure about glycoverse, visit the documentation or even the source code again.
-
-# Task
-
-I have an output file "result.list" from pGlycoQuant identified with pGlyco3, and a "sample_info.csv" file containing two columns: "sample", and "group" ("case" and "control"). I want you to read in the file, preprocess it, and perform DEA analysis using the LIMMA method. After that, plot a volcano plot.
-
-Just give me the R code.
-
-# Code style
-
-- Assume that the user has installed all glycoverse packages, including the meta-package glycoverse.
-- Comment each line of code in detail.
-- Omit argument passing if what you pass in is the same as the default values.
-- Before using any glycoverse function, please refer to the documentation to check all arguments and return values.
-- Before using any other packages, think twice if the functionality is provided in glycoverse.
-```
