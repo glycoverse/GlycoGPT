@@ -58,3 +58,9 @@ Click [![Static Badge](https://img.shields.io/badge/gpt-store-blue?logo=openai&l
 > How do I create a `glyexp::experiment()` object?
 
 > Give me the vignette about IUPAC-condensed glycan structure strings.
+
+> I have some compositions. I want to know all possible structures in batch.
+
+> Explain the `glyclean::auto_clean()` function to me.
+
+> Can I calculate derived traits for glycoproteomics data?
