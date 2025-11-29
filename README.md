@@ -70,7 +70,7 @@ Click [![Static Badge](https://img.shields.io/badge/gpt-store-blue?logo=openai&l
 If you are using LLMs other than ChatGPT, copy and paste the prompt below should work.
 
 >[!Note]
->Please use latest models with thinking for best results, such as gemini-3-pro or claude-opus-4.5.
+>Please use latest models with thinking and web access for best results, such as gemini-3-pro or claude-opus-4.5.
 
 ```
 # Instruction
