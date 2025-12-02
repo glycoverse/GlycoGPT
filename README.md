@@ -65,6 +65,10 @@ Click [![Static Badge](https://img.shields.io/badge/gpt-store-blue?logo=openai&l
 
 > Can I calculate derived traits for glycoproteomics data?
 
+Always provide more details if you can. For example:
+
+> I have a pGlyco3 result file with glycan structures. I also have sample information stored in a CSV file. The file contains two columns: "sample" for sample names, and "group" for disease group. "group" can be either "cancer" or "healthy". How I can get glycosites with unregulated core-fucosylation level in cancer samples?
+
 ## Other Models?
 
 If you are using LLMs other than ChatGPT, copy and paste the prompt below should work.
