@@ -49,7 +49,7 @@ As a domain-aware assistant, GlycoGPT aims to:
 Click [![Static Badge](https://img.shields.io/badge/gpt-store-blue?logo=openai&labelColor=black&color=white)](https://chatgpt.com/g/g-692979f3c97481919a1aae952c8f7d77-glycogpt) and start chatting!
 
 >[!Note]
->GlycoGPT requires 5.1-thinking for best results. Other models might give incorrect codes.
+>GlycoGPT requires 5.2-thinking or 5.1-thinking for best results. Models without thinking may give incorrect results.
 
 ## Common Usages
 
