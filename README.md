@@ -1,13 +1,11 @@
 # GlycoGPT
 
-[![Static Badge](https://img.shields.io/badge/gpt-store-blue?logo=openai&labelColor=black&color=white)](https://chatgpt.com/g/g-692979f3c97481919a1aae952c8f7d77-glycogpt)
-[![name status badge](https://glycoverse.r-universe.dev/badges/:name)](https://glycoverse.r-universe.dev/)
-
 <p align="center">
   <img width="375" height="159" alt="glycoverse-chatgpt" src="https://github.com/user-attachments/assets/3030c58e-37e0-4790-81ae-a999b21494f1" />
 </p>
 
 <p align="center">
+  <img alt="Static Badge" src="https://img.shields.io/badge/GPT-store-white?style=flat&logo=openai&labelColor=black&color=white&link=https%3A%2F%2Fchatgpt.com%2Fg%2Fg-692979f3c97481919a1aae952c8f7d77-glycogpt"><br>
   <span style="background: linear-gradient(45deg, #12c2e9, #c471ed, #f64f59); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
     <strong>Your GPT assistant for glycoverse<br>Powered by <a href="https://chatgpt.com/">ChatGPT</a></strong>
   </span>
