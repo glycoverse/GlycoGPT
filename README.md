@@ -5,7 +5,9 @@
 </p>
 
 <p align="center">
-  <img alt="Static Badge" src="https://img.shields.io/badge/GPT-store-white?style=flat&logo=openai&labelColor=black&color=white&link=https%3A%2F%2Fchatgpt.com%2Fg%2Fg-692979f3c97481919a1aae952c8f7d77-glycogpt"><br>
+  <a href="https://chatgpt.com/g/g-692979f3c97481919a1aae952c8f7d77-glycogpt" target="_blank">
+    <img alt="Static Badge" src="https://img.shields.io/badge/GPT-store-white?style=flat&logo=openai&labelColor=black&color=white">
+  </a><br>
   <span style="background: linear-gradient(45deg, #12c2e9, #c471ed, #f64f59); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
     <strong>Your GPT assistant for glycoverse<br>Powered by <a href="https://chatgpt.com/">ChatGPT</a></strong>
   </span>
@@ -44,7 +46,7 @@ As a domain-aware assistant, GlycoGPT aims to:
 ---
 ## How to Use?
 
-Click [![Static Badge](https://img.shields.io/badge/gpt-store-blue?logo=openai&labelColor=black&color=white)](https://chatgpt.com/g/g-692979f3c97481919a1aae952c8f7d77-glycogpt) and start chatting!
+Click [![Static Badge](https://img.shields.io/badge/GPT-store-blue?logo=openai&labelColor=black&color=white)](https://chatgpt.com/g/g-692979f3c97481919a1aae952c8f7d77-glycogpt) and start chatting!
 
 >[!Note]
 >GlycoGPT requires 5.2-thinking or 5.1-thinking for best results. Models without thinking may give incorrect results.
